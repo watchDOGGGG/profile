@@ -23,6 +23,48 @@ include('./header.php')
 				</div>
 			</section>
 			
+			<section class="pure-text-centered cardIn">
+				<div class="container">
+					<div class="row">
+					<h1><strong>Where to look for me</strong></h1>
+						<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 text-center">
+						
+						<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400');
+</style>
+<ul>
+  <!-- <li>
+    <a href="#">
+      <i class="fa fa-facebook" aria-hidden="true"></i>
+      <span> - Facebook</span>
+    </a>
+  </li> -->
+  <li>
+    <a href="https://www.linkedin.com/in/prince-emmanuel-989125218/">
+		<img src="https://icongr.am/fontawesome/linkedin.svg?size=28&color=currentColor" alt="">
+      <span> - LinkedIn</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.f6s.com/httpsprince-emmanuel">
+      <img src="https://icongr.am/fontawesome/at.svg?size=28&color=currentColor" alt="">
+      <span> - Airtm</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/watchDOGGGG">
+      <img src="https://icongr.am/fontawesome/github.svg?size=28&color=currentColor" alt="">
+      <span> - Github</span>
+    </a>
+  </li>
+
+						</div>
+					</div>
+		
+				</div>
+			</section>
+
+
 			<section class="inline-image-right">
 				<div class="container">
 					<div class="row">
